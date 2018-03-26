@@ -24,6 +24,7 @@
   "author": "The Bcoin Developers",
   "license": "MIT",
   "dependencies": {
+    "bcrypto": "^0.2.0",
     "bdb": "0.0.2",
     "bevent": "0.0.2",
     "blgr": "0.0.1",
